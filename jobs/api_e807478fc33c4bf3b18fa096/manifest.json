@@ -1,0 +1,22 @@
+{
+  "job_id": "api_e807478fc33c4bf3b18fa096",
+  "mode": "zip_split",
+  "file_url": "https://free-dl12.myalphadl.com/qnNKTRGTSW7miqQgOe327Q/Classroom.Of.The.Elite.S04E01.WEB-DL.720p.AlphaDL.mkv",
+  "suggested_filename": "Classroom.Of.The.Elite.S04E01.WEB-DL.720p.AlphaDL.mkv",
+  "total_size_bytes": 147480670,
+  "created_at_utc": "2026-05-20T13:26:27.811310+00:00",
+  "zip_folder": "jobs/api_e807478fc33c4bf3b18fa096/zip",
+  "zip_main_file": "Classroom.Of.The.Elite.S04E01.WEB-DL.720p.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "Classroom.Of.The.Elite.S04E01.WEB-DL.720p.AlphaDL_split.z01",
+      "path": "jobs/api_e807478fc33c4bf3b18fa096/zip/Classroom.Of.The.Elite.S04E01.WEB-DL.720p.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Classroom.Of.The.Elite.S04E01.WEB-DL.720p.AlphaDL_split.zip",
+      "path": "jobs/api_e807478fc33c4bf3b18fa096/zip/Classroom.Of.The.Elite.S04E01.WEB-DL.720p.AlphaDL_split.zip",
+      "size_bytes": 53109090
+    }
+  ]
+}
